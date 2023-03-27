@@ -6,7 +6,7 @@ The project consists of 4 main parts:
 
 
 
-Our implementiation consists of a single file, `nlpLab02.py`, which contains all the code for the project.
+Our implementiation consists of a single file, `nlpLab01.py`, which contains all the code for the project.
 it uses the following libraries:
   - `datasets` for the dataset
   - `scikit-learn` for the Naive Bayes classifier
