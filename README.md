@@ -1,3 +1,10 @@
+# NLP LAB 1 - Naive Bayes classifier
+
+Authors:
+* Aurelien ROUXEL
+* Ethan MACHAVOINE
+* Jonathan POELGER
+
 The project consists of 4 main parts:
   - Getting a dataset and understanding how it's structured
   - Implementing two Naive Bayes classifiers, (one by hand and one using scikit-learn)
